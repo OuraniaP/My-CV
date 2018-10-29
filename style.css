@@ -1,0 +1,13 @@
+table, td, tr {
+    border: 1px solid greenyellow;
+    /* border-collapse: collapse */
+}
+
+p{
+    border: 10px double red; 
+    padding: 5px;
+    /* border-style:double;
+    border-color: red;
+    border-width:  */
+
+}
